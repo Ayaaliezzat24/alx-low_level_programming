@@ -1,12 +1,12 @@
-#include"main.h"
+#include "main.h"
 
 /**
  * _islower - function to check if
  * character is lowercase
  *
- * 0c: checks input of function
+ * @c: checks input of function
  *
- * Return: return 1 if 'c' is lowecase
+ * Return: return 1 if `c` is lowecase
  * otherwise always 0 (Success)
 */
 
